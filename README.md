@@ -56,7 +56,7 @@ Este proyecto permitió aplicar herramientas de análisis estadístico para tran
 
 ## 6. Evidencia del proyecto
 
-- **Notebook:** análisis exploratorio, priorización de hipótesis, visualizaciones, pruebas estadísticas y conclusiones.
+- **Notebook:** [Consultar análisis completo](analisis_prueba_ab.ipynb).
 - **Repositorio:** código y documentación del proyecto.
 
 *Nota: Los conjuntos de datos originales pertenecen al entorno de formación de TripleTen y no se incluyen en este repositorio. Por ello, el notebook se presenta como evidencia del análisis realizado y sus resultados, pero no como una ejecución reproducible desde cero sin dichos archivos.*
