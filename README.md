@@ -1,6 +1,6 @@
 # Análisis de pruebas A/B para la optimización de ingresos en una tienda online
 
-## 1. Contexto y problema
+## 1. Contexto
 
 Una tienda online busca identificar oportunidades para incrementar sus ingresos mediante la evaluación de distintas hipótesis de negocio y la comparación del comportamiento de dos grupos de usuarios.
 
